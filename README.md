@@ -1,6 +1,6 @@
 <h1 align=center>Hi, I'm Jean 👋</h1>
 
-⚠️ **tl;dr** &#8594; I'm actively looking for an **internship or a job as a fullstack Ruby on Rails web developer**, In France or EU. Think I could fit with your need? You can reach out at [contact@jeanguillet.com](mailto:contact@jeanguillet.com).
+⚠️ **tl;dr** &#8594; I'm actively looking for an **internship or a job as a fullstack Ruby on Rails web developer**, In France or EU. Think I could fit with your need? Feel free to reach out at [contact@jeanguillet.com](mailto:contact@jeanguillet.com).
 
 ---
 
