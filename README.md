@@ -2,7 +2,7 @@
 
 ### About me
 
-Being a fond of graphism, code, UI/UX and photography since ever, I decided to turn to web programming by attending the [Wagon Paris bootcamp](https://www.lewagon.com/fr) in early 2022, after some first experiences in digital marketing, CRM and product. Thanks to several previous Python projects, I was able to quickly become operational on Ruby on Rails. Want to see what I can do? See [jeanguillet.com](https://www.jeanguillet.com) to check out some of my side projects from recent years (code, graphism, video and related stuff).
+Being a fond of graphism, code, UI/UX and photography since ever, I decided to sharpen my skills in product management and web development by attending the [Wagon Paris bootcamp](https://www.lewagon.com/fr) in early 2022, after some first experiences in digital marketing, CRM and product. Thanks to several previous Python projects, I was able to quickly become operational on Ruby on Rails. Want to see what I can do? See [jeanguillet.com](https://www.jeanguillet.com) to check out some of my side projects from recent years (code, graphism, video and related stuff).
 
 ---
 
