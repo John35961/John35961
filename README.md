@@ -9,8 +9,6 @@
 - Design &#8594; **Figma, Sketch, Adobe CS Suite**
 - Project &#8594; **JIRA, Trello, agile methods**
 
----
-
 ### Some recent projects
 
 - [John35961/portfolio](https://github.com/John35961/portfolio) : personal portfolio built with Rails, PostgreSQL and TailwindCSS
