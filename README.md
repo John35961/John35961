@@ -11,5 +11,5 @@
 
 ### Some recent projects
 
-- [John35961/discogs-wantlist-helper]([https://github.com/John35961/portfolio](https://github.com/John35961/discogs-wantlist-helper) &#8594; a personal portfolio built with Rails, PostgreSQL and TailwindCSS
-- [John35961/portfolio](https://github.com/John35961/portfolio) &#8594; a Chrome extension to let you add a record to your Discogs wantlist effortlessly
+- [John35961/discogs-wantlist-helper](https://github.com/John35961/discogs-wantlist-helper) &#8594; Personal portfolio built with Rails, PostgreSQL and TailwindCSS
+- [John35961/portfolio](https://github.com/John35961/portfolio) &#8594; Chrome extension to let you add a record to your Discogs wantlist effortlessly
